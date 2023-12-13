@@ -1,6 +1,6 @@
 ## Aprendendo com o Bootcamp DIO
 
-Cadernos de aprendizado com resumos das aulas do bootcamp
+Cadernos de aprendizado com resumos das aulas do bootcamp e minhas anotações pessoais
  
 
 
