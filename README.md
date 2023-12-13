@@ -1,10 +1,18 @@
+## Aprendendo com o Bootcamp DIO
 
-<h1>Aprendendo a fazer readme no curso 
-<h1>
 
-Aprendendo e testando radme treinando essas paradas 
+ 
 
-<p>resumo das aulas do curso DIO
-aula 1 
-aula 2
-<p>
+
+## resumos 
+
+- Introdução Git e GitHub
+
+- Introdução ao Desenvolvimento de Jogos 
+
+
+## Aprendizados
+
+Carregando...
+
+
